@@ -1,6 +1,18 @@
-# template-vanilla
+# js-basic-conditions-zero-text-to-schema-and-code
 
-## Text
+## Below, you will find the acceptance criteria. Your task is to develop the complete coding logic and create a diagram illustrating the code's conditions. Please use tools such as Figma, Miro, or Excalidraw for this purpose(or simple notepad), and include screenshots from these applications in the repository.
+
+- Ask the user for their choice of goods (options: Fanta - $2, Pepsi - $3, Sprite - $2.5).
+  - If the user selects an item that is not one of these three, terminate the application with an appropriate message.
+- If the user selects one of the available goods:
+  - Ask the user how much money they have.
+  - Compare the user's money with the price of the selected item:
+    - If the user's money is less than the price, terminate the application with an appropriate message.
+    - If the user's money is sufficient:
+      - Inform the user that the purchase was successful.
+      - Display the remaining balance of money.
+
+This includes the prices for Fanta ($2), Pepsi ($3), and Sprite ($2.5).
 
 ## Criteria:
 
